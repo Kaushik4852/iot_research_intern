@@ -1,4 +1,3 @@
-write psuedo code for this : 
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 #include <PubSubClient.h>
